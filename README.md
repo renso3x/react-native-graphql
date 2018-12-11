@@ -1,4 +1,4 @@
-# react-native-ecommerce
+# react-native-graphql
 
 ## The branches of this project are sorted in the order they were coded.
 
